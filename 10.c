@@ -35,7 +35,7 @@ int main(){
 /*
 OUTPUT
 gaurav176@gaurav176-HP-Pavilion-Laptop-14-dv0xxx:~/Desktop/hands-on-list/que10$ ./a.out
-File pointer after lseek: 30
+File pointer after lseek: 20
 
 gaurav176@gaurav176-HP-Pavilion-Laptop-14-dv0xxx:~/Desktop/hands-on-list/que10$ od -c file1.txt
 0000000   W   E   L   C   O   M   E   B   R   O  \0  \0  \0  \0  \0  \0
