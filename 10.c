@@ -24,7 +24,7 @@ int main(){
 
 	write(fd, buf1, 10);
 
-	int pos = lseek(fd, 20, SEEK_CUR);
+	int pos = lseek(fd, 10, SEEK_CUR);
 	printf("File pointer after lseek: %ld\n", (long)pos);
 	
 	write(fd, buf2, 10);
